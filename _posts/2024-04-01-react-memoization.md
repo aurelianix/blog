@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React Memoization
+title: "TIL: React Memoization"
 date: 2024-04-01 12:16 +0200
 categories:
 - technology
